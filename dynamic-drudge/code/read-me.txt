@@ -1,0 +1,25 @@
+The Dynamic Drudge Report Website Template by JoshCanHelp
+Version: 1.0 (last update 1/17/2011)
+More information: http://www.joshcanhelp.com/drudge-report-website-template
+
+Author: Joshua Cunningham
+Author email: josh@joshcanhelp.com
+Author URL: http://www.joshcanhelp.com
+
+Thanks for purchasing! Up-to-date instructions can be found at the "more information URL above. 
+
+Release notes:
+
+If you made any changes to main.css, change "#left-column," "#middle-column," and "#right-column" to "#column1," "#column2," and "#column3," respectively. Otherwise, simply replace your existing main.css with the new file in the ZIP package.
+
+Code improvement: 
+
+- Separated configuration form code into it's own file to improve code maintenance. Also re-wrote this separate file to be easier to read. 
+
+- Temporarily storing information in a better way to improve code maintenance. 
+
+Functionality:
+
+- Determining valid Google Docs link much better.
+
+- Added automatic alternate text for images.

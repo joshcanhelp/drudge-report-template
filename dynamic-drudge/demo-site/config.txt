@@ -1,0 +1,6 @@
+rss feed "http://spreadsheets.google.com/feeds/cells/tjnRjoW95ZbjvUH5jU7lNqA/od6/public/basic?alt=rss"
+page name ""
+logo image url "http://www.joshcanhelp.com/drudge-report-website-template/images/logo.png"
+show author email "no"
+show author email "yes"
+show author email "yes"

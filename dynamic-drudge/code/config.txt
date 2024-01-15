@@ -1,0 +1,7 @@
+rss feed "https://spreadsheets.google.com/feeds/cells/0Al9b4H4rdFOkdEM2bzV2djMyanhtMmM5eW01VW12UVE/od6/public/basic?alt=rss"
+page name "Final Approach Aviation Report"
+logo image url "faar-banner.png"
+show author email "no"
+show last change date "yes"
+show sheet name "no"
+open links in new window "yes"

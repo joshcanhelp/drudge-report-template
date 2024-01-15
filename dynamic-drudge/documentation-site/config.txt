@@ -1,0 +1,6 @@
+rss feed "https://spreadsheets.google.com/feeds/cells/0Al9b4H4rdFOkdDNGSEszVER1Uk8yYUl6Rm1EWVlISkE/od6/public/basic?alt=rss"
+page name ""
+logo image url "logo.png"
+show author email "no"
+show last change date "yes"
+show sheet name "no"
